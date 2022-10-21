@@ -1,0 +1,7 @@
+QtCatalogView {
+    background-color: #282c34;
+}
+
+QListWidget {
+    background-color: #282c34;
+}
